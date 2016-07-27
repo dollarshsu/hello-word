@@ -1,5 +1,8 @@
-# hello-word
-just another repository
+#AEDLab-Training
 
+This is for the training purpose.
 
-hi  iam dollars
+Download this repository and add your own working branch.
+Work on your own folder, and then merge it back to your local repository.
+
+i am  doing something .
